@@ -20,4 +20,4 @@
   - 코로나 초기 이용량 급락 후 정상화 단계
 
 <img src="https://github.com/kimdhair/seoul_subway_data_analysis/blob/main/img/%EB%85%B8%EC%84%A0%EB%B3%84%20%EC%9D%B4%EC%9A%A9%EB%9F%89.png?raw=true" width="40%"></img>
-<img src="https://github.com/kimdhair/seoul_subway_data_analysis/blob/main/img/%EC%8B%9C%EA%B0%84%EB%8C%80%EB%B3%84%20%EC%9D%B4%EC%9A%A9%EB%9F%89.png?raw=true" width="80%"><img src="https://github.com/kimdhair/seoul_subway_data_analysis/blob/main/img/%EC%9B%94%EB%B3%84%20%EC%B4%9D%20%EC%9D%B4%EC%9A%A9%EB%9F%89.png?raw=true" width="80%"></img>
+<img src="https://github.com/kimdhair/seoul_subway_data_analysis/blob/main/img/%EC%8B%9C%EA%B0%84%EB%8C%80%EB%B3%84%20%EC%9D%B4%EC%9A%A9%EB%9F%89.png?raw=true" width="100%"><img src="https://github.com/kimdhair/seoul_subway_data_analysis/blob/main/img/%EC%9B%94%EB%B3%84%20%EC%B4%9D%20%EC%9D%B4%EC%9A%A9%EB%9F%89.png?raw=true" width="100%"></img>
